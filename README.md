@@ -1,1 +1,3 @@
-# blog_aspnet
+# Blog
+
+Un blog en .NET MVC et c#
